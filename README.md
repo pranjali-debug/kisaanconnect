@@ -99,16 +99,6 @@ src/
 └── utils/           # Utility functions
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Contributors
-
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
-- [Contributor 3](https://github.com/contributor3)
-
 ## 🙏 Acknowledgements
 
 - [React](https://reactjs.org/)
